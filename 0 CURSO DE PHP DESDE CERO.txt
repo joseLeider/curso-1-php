@@ -1,0 +1,45 @@
+(PHP)+(MYSQL)+(BOOSTRAP)+(HTML)+()
+
+DEVELOTECA
+
+CURSO DE PHP DESDE CERO
+
+https://www.youtube.com/watch?v=nCB1gEkRZ1g&t=4807s&ab_channel=Develoteca
+
+
+INSTALACION DE XAMPP
+
+(XAMPP Installers and Downloads for Apache Friends)
+
+XAMPP es un paquete de software libre, que consiste principalmente en el 
+sistema de gestión de bases de datos MySQL, el servidor web Apache y los 
+intérpretes para lenguajes de script PHP y Perl. El nombre es en realidad
+ un acrónimo: X, Apache, MariaDB/MySQL, PHP, Perl.
+
+https://www.apachefriends.org/es/index.html
+
+Componentes a trabajar:
+
+- apache: Servidor web
+- mysql: Base de datos
+- php: Lenguaje de programacion
+- phpMyAdmin: Administracion de la base de datos
+
+- creamos una carpeta con el nombre del proyecto atraves de la ruta C:\xampp\htdocs\nombreProyecto y automaticamente se crea el directorio
+- se inicializa siempre los servicios de la instalacion de XAMPP atraves del XAMPP Control Panel, 
+  activando el servidor apache y mysql 
+- si queremos acceder al directorio de nuestro proyecto creado escribimos la direccion localhost/nombreProyecto
+- si queremos acceder a un archivo creado de nuestro proyecto escribimos la direccion localhost/nombreProyecto/nombreArchivo.php
+
+htdocs: Es en esta carpeta donde guardaremos todos los archivos y sitios que hagamos utilizando PHP.
+Es la carpeta raiz de tu localhost, por ejemplo cuando instalas apache te crea una carpeta que se llama htdocs, este es un directorio raíz 
+desde el cual se servirán los documentos, osea cuando guardes un archivo .php se guardara en esta carpeta y de esta manera cuando se mande a 
+visualizar este archivo ira a esta carpeta para que se pueda ver en la web
+
+localhost: hace referencia a la computadora en la que se está ejecutando cierto programa.
+
+QUE ES PHP
+PARA QUE SIRVE
+QUE SE PUEDE HACER
+EJEMPLOS
+VERSIONES
